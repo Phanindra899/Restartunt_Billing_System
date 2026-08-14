@@ -1,0 +1,8 @@
+# Compiled binaries
+restaurant
+*.o
+*.out
+*.exe
+
+# System files
+.DS_Store
