@@ -1,3 +1,4 @@
+#include <gtk/gtk.h>
 #include "gui.h"
 #include <ctype.h>
 
