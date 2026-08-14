@@ -3,6 +3,8 @@ restaurant
 *.o
 *.out
 *.exe
+*.dat
+receipt_*.txt
 
 # System files
 .DS_Store
